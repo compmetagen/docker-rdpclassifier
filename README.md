@@ -10,7 +10,7 @@ to the scientific community.
 
 ## Available Tags/Versions
 
-- latest (default): RDP Classifier Release 2.11 (aliased to 2.11)
+- latest
 - 2.11: RDP Classifier Release 2.11
 
 ## Quickstart
@@ -19,8 +19,7 @@ to the scientific community.
 
    `docker pull compmetagen/rdpclassifier`
 
-2. Run an instance of the image, mounting in the host directory and setting the
-   working directory as appropriate. If no program is specified, the default behaviour is to drop you into a shell in your working directory.
+2. Run an instance of the image, mounting the host directory:
 
    `docker run -t -i -v /Users/davide/rdp:/rdp -w /rdp compmetagen/rdpclassifier /bin/bash`
 
