@@ -1,8 +1,7 @@
 # RDP classifier
 
-[Ribosomal Database Project (RDP)]
-https://sourceforge.net/projects/rdp-classifier/files/rdp-classifier/ Classifier
-in a Docker image.
+[Ribosomal Database Project (RDP)](https://sourceforge.net/projects/rdp-classifier/files/rdp-classifier/)
+Classifier in a Docker image.
 
 RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal
 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools
@@ -10,7 +9,7 @@ to the scientific community.
 
 ## Available Tags/Versions
 
-- latest: GitHub snapshot
+- latest: GitHub snapshot (master)
 - 2.11: RDP Classifier Release 2.11
 
 ## Quickstart
