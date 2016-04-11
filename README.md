@@ -10,7 +10,7 @@ to the scientific community.
 
 ## Available Tags/Versions
 
-- latest
+- latest: GitHub snapshot
 - 2.11: RDP Classifier Release 2.11
 
 ## Quickstart
