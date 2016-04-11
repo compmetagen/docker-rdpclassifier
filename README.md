@@ -1,4 +1,4 @@
-# RDP classifier
+# RDP classifier - Docker
 
 [Ribosomal Database Project (RDP)](https://sourceforge.net/projects/rdp-classifier/files/rdp-classifier/)
 Classifier in a Docker image.
