@@ -7,8 +7,8 @@ RUN apt-get update && apt-get install -y \
     zip \
   && rm -rf /var/lib/apt/lists/*
 
-ENV RDP_ZIP rdp_classifier_2.11.zip
-ENV RDP_VERSION 2.11
+ENV RDP_ZIP rdp_classifier_2.12.zip
+ENV RDP_VERSION 2.12
 ENV RDP_DOWNLOAD https://sourceforge.net/projects/rdp-classifier/files/rdp-classifier/$RDP_ZIP/download
 ENV RDPPATH /opt/rdp_classifier
 
